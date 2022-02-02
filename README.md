@@ -81,36 +81,48 @@
 
   - 2022-01-06 力扣刷题：19-棒球比赛(682)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A19-%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B(682)/code.cpp)
+    - [掘金文章](https://juejin.cn/post/7060019759022080013)
 
   - 2022-01-07 力扣刷题：20-比较含退格的字符串(844)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A20-%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2(844)/code.cpp)
+    - [掘金文章](https://juejin.cn/post/7060020136677212168/)
 
   - 2022-01-08 力扣刷题：21-验证栈序列(946)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A21-%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97(946)/code.cpp)
+    - [掘金文章](https://juejin.cn/post/7060024067340009479)
 
   - 2022-01-09 力扣刷题：22-有效的括号(20)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A22-%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7(20)/code.cpp)
+    - [掘金文章](https://juejin.cn/post/7060024849363632165)
 
   - 2022-01-10 力扣刷题：23-删除最外层的括号(1021)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A23-%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E7%9A%84%E6%8B%AC%E5%8F%B7(1021)/code.cpp)
+    - [掘金文章](https://juejin.cn/post/7060024938970742798)
 
   - 2022-01-11 力扣刷题：24-移除无效的括号(1249)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A24-%E7%A7%BB%E9%99%A4%E6%97%A0%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7(1249)/code.cpp)
+    - [掘金文章](https://juejin.cn/post/7060027456220053540)
 
   - 2022-01-12 力扣刷题：25-二叉树的后序遍历(145)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A25-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86(145)/code.cpp)
+    - [掘金文章]()
 
   - 2022-01-13 力扣刷题：26-验证二叉树的前序序列化(331)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A26-%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E5%BA%8F%E5%88%97%E5%8C%96(331)/code.cpp)
+    - [掘金文章]()
 
   - 2022-01-14 力扣刷题：27-基本计算器 II(227)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A27-%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8%20II(227)/code.cpp)
+    - [掘金文章]()
 
   - 2022-01-15 力扣刷题：28-函数的独占时间(636)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A28-%E5%87%BD%E6%95%B0%E7%9A%84%E7%8B%AC%E5%8D%A0%E6%97%B6%E9%97%B4(636)/code.cpp)
+    - [掘金文章]()
 
   - 2022-01-16 力扣刷题：29-表现良好的最长时间段(1124)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A29-%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5(1124)/code.cpp)
+    - [掘金文章]()
 
   - 2022-01-17 力扣刷题：30-返回倒数第 k 个节点(面试题 02.02)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A30-%E8%BF%94%E5%9B%9E%E5%80%92%E6%95%B0%E7%AC%AC%20k%20%E4%B8%AA%E8%8A%82%E7%82%B9(%E9%9D%A2%E8%AF%95%E9%A2%98%2002.02)/code.cpp)
+    - [掘金文章]()
