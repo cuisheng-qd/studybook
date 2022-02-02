@@ -73,9 +73,11 @@
 
   - 2022-01-04 力扣刷题：17-任务调度器(621)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A17-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8(621)/code.cpp)
+    - [掘金文章](https://juejin.cn/post/7060016060849717255)
 
   - 2022-01-05 力扣刷题：18-化栈为队(面试题 03.04)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A18-%E5%8C%96%E6%A0%88%E4%B8%BA%E9%98%9F(%E9%9D%A2%E8%AF%95%E9%A2%98%2003.04)/code.cpp)
+    - [掘金文章](https://juejin.cn/post/7060016107062558728)
 
   - 2022-01-06 力扣刷题：19-棒球比赛(682)
     - [代码](https://github.com/cuisheng-qd/studybook/blob/main/%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98%EF%BC%9A19-%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B(682)/code.cpp)
